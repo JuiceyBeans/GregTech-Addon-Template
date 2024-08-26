@@ -1,7 +1,7 @@
-# GT-Addon-Template-1.20.1
- Template for GregTech Modern addons
+# GregTech Addon Template
+ Template for GregTech Modern addons on 1.20.1
 
- Original template by @screret, updated by @JuiceyBeans
+ Original template by screret, updated by JuiceyBeans
 
 Repositories you can use for additional reference:
 
