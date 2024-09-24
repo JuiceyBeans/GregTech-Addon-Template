@@ -47,6 +47,10 @@ repositories {
     }
     mavenCentral()
     maven {
+        name 'FirstDarkDev'
+        url "https://maven.firstdarkdev.xyz/snapshots/"
+    }
+    maven {
         name = 'GTCEu Maven'
         url = 'https://maven.gtceu.com'
     }
