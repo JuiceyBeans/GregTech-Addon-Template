@@ -35,11 +35,6 @@ public class ExampleGTAddon implements IGTAddon {
         //CustomRecipes.init(provider);
     }
     
-    @Override
-    public void registerRecipeConditions() {
-        //CustomRecipeConditions.init();
-    }
-
     // If you have custom ingredient types, uncomment this & change to match your capability.
     // KubeJS WILL REMOVE YOUR RECIPES IF THESE ARE NOT REGISTERED.
     /*
