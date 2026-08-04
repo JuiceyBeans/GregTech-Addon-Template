@@ -60,8 +60,8 @@ repositories {
     }
     maven {
         // EMI
-		name = "TerraformersMC"
-		url = "https://maven.terraformersmc.com/"
+        name = "Sleeping Town"
+        url = "https://repo.sleeping.town/"
 	}
     maven {
         url = "https://thedarkcolour.github.io/KotlinForForge/"
